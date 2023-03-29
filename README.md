@@ -2,8 +2,7 @@
 Example project for coderefinery documentation lesson
 
 
-# this is a python script to get the mean temperature from the measurement spreadsheet
-# using a single script.
+# this is a python script to get the mean temperature from the measurement spreadshee using a single script.
 (This is great because you do not need to work with cubersome excel function anymore!)
 
 ## how it works?
